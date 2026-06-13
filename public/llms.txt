@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://yi-quality-e9bb44de.zappy5.app
+https://example.com
 YI Quality מובילים בתחום בדיקות תוכנה ואבטחת איכות. נשדרג את המוצר שלכם עם בדיקות קפדניות, ניתוח סיכונים ופתרונות QA מתקדמים. השאירו פרטים לייעוץ חינם וראש שקט.
 
 ### שירותים
-https://yi-quality-e9bb44de.zappy5.app/services
+https://example.com/services
 צלילה עמוקה לשירותי בדיקות התוכנה והבטחת האיכות שלנו. החל מבדיקות אוטומטיות ועד לניתוח איכות אסטרטגי, YI Quality מתאימים לכם חבילת QA שתאיץ את ההצלחה. הציצו בשירותים.
 
 ### אודות
-https://yi-quality-e9bb44de.zappy5.app/about
+https://example.com/about
 מאחורי YI Quality עומד צוות מנוסה של מנתחי אבטחת איכות, המשלב טכנולוגיה מתקדמת עם מומחיות אנושית. גלו את הסיפור, הערכים והתשוקה שמניעים אותנו להבטיח שהתוכנה שלכם פשוט תעבוד.
 
 ### צור קשר
-https://yi-quality-e9bb44de.zappy5.app/contact
+https://example.com/contact
 מוכנים להעלות את רמת התוכנה שלכם לסטנדרטים הגבוהים ביותר? צרו קשר עם YI Quality עכשיו לשיחת ייעוץ ראשונית ללא עלות. בואו נבנה ביחד מוצר שעומד בכל מבחן איכות.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://yi-quality-e9bb44de.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://yi-quality-e9bb44de.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://yi-quality-e9bb44de.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://yi-quality-e9bb44de.zappy5.app/contact
-- Endpoint: https://yi-quality-e9bb44de.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -73,6 +73,6 @@ Quality Assurance / Software Testing
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://yi-quality-e9bb44de.zappy5.app/sitemap.xml
-- Robots: https://yi-quality-e9bb44de.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://yi-quality-e9bb44de.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
