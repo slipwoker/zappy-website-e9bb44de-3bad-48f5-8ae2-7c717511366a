@@ -1,0 +1,78 @@
+# YI Quality — Generative Engine Optimization Map
+
+> YI Quality appears to be a quality assurance or testing-related platform or service, based on the project name and URL structure. The brand name suggests a focus on quality inspection, QA processes, or quality management solutions.
+
+---
+
+## Pages
+
+### בית
+https://yi-quality-e9bb44de.zappy5.app
+YI Quality מובילים בתחום בדיקות תוכנה ואבטחת איכות. נשדרג את המוצר שלכם עם בדיקות קפדניות, ניתוח סיכונים ופתרונות QA מתקדמים. השאירו פרטים לייעוץ חינם וראש שקט.
+
+### שירותים
+https://yi-quality-e9bb44de.zappy5.app/services
+צלילה עמוקה לשירותי בדיקות התוכנה והבטחת האיכות שלנו. החל מבדיקות אוטומטיות ועד לניתוח איכות אסטרטגי, YI Quality מתאימים לכם חבילת QA שתאיץ את ההצלחה. הציצו בשירותים.
+
+### אודות
+https://yi-quality-e9bb44de.zappy5.app/about
+מאחורי YI Quality עומד צוות מנוסה של מנתחי אבטחת איכות, המשלב טכנולוגיה מתקדמת עם מומחיות אנושית. גלו את הסיפור, הערכים והתשוקה שמניעים אותנו להבטיח שהתוכנה שלכם פשוט תעבוד.
+
+### צור קשר
+https://yi-quality-e9bb44de.zappy5.app/contact
+מוכנים להעלות את רמת התוכנה שלכם לסטנדרטים הגבוהים ביותר? צרו קשר עם YI Quality עכשיו לשיחת ייעוץ ראשונית ללא עלות. בואו נבנה ביחד מוצר שעומד בכל מבחן איכות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://yi-quality-e9bb44de.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://yi-quality-e9bb44de.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://yi-quality-e9bb44de.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://yi-quality-e9bb44de.zappy5.app/contact
+- Endpoint: https://yi-quality-e9bb44de.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About YI Quality
+YI Quality appears to be a quality assurance or testing-related platform or service, based on the project name and URL structure. The brand name suggests a focus on quality inspection, QA processes, or quality management solutions.
+
+## Target Audience
+- צוותי פיתוח תוכנה
+- מחלקות אבטחת איכות IT
+- חברות סטארטאפ טכנולוגיות
+
+## Industry
+Quality Assurance / Software Testing
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://yi-quality-e9bb44de.zappy5.app/sitemap.xml
+- Robots: https://yi-quality-e9bb44de.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://yi-quality-e9bb44de.zappy5.app/llms-full.txt
